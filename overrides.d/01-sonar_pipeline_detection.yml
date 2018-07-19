@@ -1,0 +1,2 @@
+- perception/orogen/sonar_pipeline_detection:
+    branch: remove_bundles_path
