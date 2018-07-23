@@ -18,7 +18,7 @@ sh bootstrap.sh
 Go to bootstrap root folder and set the framework environment
 
 ```
-sh env.sh
+source env.sh
 ```
 
 Go to sonar pipeline detection component folder
