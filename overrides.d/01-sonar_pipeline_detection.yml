@@ -1,2 +1,5 @@
 - perception/orogen/sonar_pipeline_detection:
-    branch: remove_bundles_path
+    branch: detection_problems_opencv2
+
+- perception/sonar_image_processing:
+    branch: detection_problems_opencv2
